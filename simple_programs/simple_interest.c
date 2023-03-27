@@ -1,4 +1,4 @@
-// A program to find the simple interest when principal, rate of interest and time is given :
+// A program to find the simple interest when principal, rate of interest and time are given :
 
 #include <stdio.h>
 
