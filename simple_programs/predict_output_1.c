@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-    int p, q;
+    int p, q; // variable initialization
     printf("Enter values of p and q : ");
     scanf("%d %d", &p, &q);
     
