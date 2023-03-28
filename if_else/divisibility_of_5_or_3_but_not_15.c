@@ -13,7 +13,7 @@ int main()
     {
         if (x % 15 != 0)
         {
-            printf("The number %d is divisible by 5 or 3.", x);
+            printf("The number %d is divisible by 5 or 3 but not 15.", x);
         }
         else
         {
